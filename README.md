@@ -1,3 +1,3 @@
-# userChrome.css-for-Firefox
-Followed r/FirefoxCss.
+# userChrome.css
+Followed r/FirefoxCSS.
 Some interface changes for Firefox.
